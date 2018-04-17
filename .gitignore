@@ -1,0 +1,6 @@
+.vscode/
+node_modules/
+client/node_modules/
+server/node_modules/
+ws-server/node_modules/
+ws-server/session.sqlite
